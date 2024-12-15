@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+yarn.lock
+package-lock.json
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
